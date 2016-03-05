@@ -1,0 +1,29 @@
+age=int(input("What is your age?"))
+if age>=16:
+    score=int(input("What is your test score?"))
+    if score>=60:
+        print("Congratulation! You can drive")
+    else:
+        print("Sorry, only you pass the driving test then you may drive.")
+else:
+    print("Sorry, you can't drive!")
+
+A_score=90
+B_score=80
+C_score=70
+D_score=60
+
+score=float(input("What is your score?"))
+if score>=A_score:
+    print("Your grade is A")
+else:
+    if score>=B_score:
+        print("Your grade is B")
+    else:
+        if score>=C_score:
+            print("Your grade is C")
+        else:
+            if score>=D_score:
+                print("Your grade is D")
+            else:
+                print("Your grade is F")
