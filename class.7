@@ -1,0 +1,20 @@
+import random
+guess=int(input("Think a No."))
+answer= random.randint(1,10)
+count=0
+while guess !=answer and count<3:
+    count+=1
+    print("You guess wrong")
+    if guess>answer:
+        print("too high")
+        guess=int(input("guess a number"))
+    else:
+        print("too low")
+        guess=int(input("guess a number"))
+    print("chance #",count)
+if answer==guess:
+    print("correct")
+else:
+    print("you took too many tries")
+
+
