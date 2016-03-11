@@ -1,0 +1,39 @@
+# import random
+# def main():
+#     val=roll_die()
+#     print(val)
+#
+# def roll_die():
+#     result=random.randint(1,6)
+#     return result
+#
+# main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+# for loop + roll_die function
+
+import random
+def main():
+    for i in range(100):
+        val=roll_die()
+        print(val)
+
+def roll_die():
+    result=random.randint(1,6)
+    return result
+
+main()
+
+
+# sum and average
