@@ -1,0 +1,27 @@
+def main():
+    outfile=open('philosopers.txt','w')
+    outfile.write('John Locke\n')
+    outfile.write('Dave Locke\n')
+    outfile.write('Edmund Locke\n')
+    outfile.close()
+
+main()
+
+def main():
+    infile=open('philosopers.txt','r')
+    line1=infile.readline()
+    line2=infile.readline()
+    line3=infile.readline()
+
+    line1=line1.rstrip('\n')
+    line2=line2.rstrip('\n')
+    line3=line3.rstrip('\n')
+
+
+    print(line1)
+    print(line2)
+    print(line3)
+
+    infile.close()
+
+main()
