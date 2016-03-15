@@ -1,0 +1,63 @@
+
+
+
+def main():
+    infile = open("StarryNight.ppm",'r')
+    outfile = open("out.ppm",'w')
+
+    #read in put file first 4 lines
+    line1 = infile.readline()
+    line2 = infile.readline()
+    line3 = infile.readline()
+    line4 = infile.readline()
+
+    #write 1st four lines to output file
+    outfile.write(line1)
+    outfile.write(line2)
+    outfile.write(line3)
+    outfile.write(line4)
+
+    count=0
+    sum_red=0
+    sum_green=0
+    sum_blue=0
+
+    for i in range(400*317):
+        count+=1
+        red=int(infile.readline())
+        green=int(infile.readline())
+        blue=int(infile.readline())
+        avg = (red + green+ blue) // 3
+
+        sum_red+=red
+        sum_green+=green
+        sum_blue+=blue
+
+        if red%2==0:
+            r=0
+            g=0
+            b=0
+        else:
+            r=225
+            g=225
+            b=225
+
+
+
+        outfile.write(str(r)+"\n")
+        outfile.write(str(g)+"\n")
+        outfile.write(str(b)+"\n")
+        outfile.write(str(avg))
+
+
+    avg_red=sum_red/count
+    avg_green=sum_green/count
+    avg_blue=sum_blue/count
+    print("red average",format(avg_red,".2f"))
+    print("green average",format(avg_green,".2f"))
+    print("blue average",format(avg_blue,".2f"))
+    infile.close()
+    outfile.close()
+
+
+main()
