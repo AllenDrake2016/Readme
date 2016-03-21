@@ -1,0 +1,12 @@
+answer=['D','A','D','E','C']
+
+correct=0
+for i in range(6):
+    print("Question",(i+1))
+    ans=input("What's your answer?")
+    if ans==answer[i]:
+        print("correct")
+        correct+=1
+    else:
+        print("incorrect")
+        print("The answer was",answer[i])
