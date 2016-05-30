@@ -1,0 +1,722 @@
+<input tabindex=
+"1
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbLastName_I
+" name=
+"rpDefendantInformation$tbLastName
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbLastName')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbLastName')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbLastName')
+" value=
+"WASHINGTON
+" type=
+"text
+">
+<input tabindex=
+"13
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbEmployer_I
+" name=
+"rpDefendantInformation$tbEmployer
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbEmployer')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbEmployer')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbEmployer')
+" value=
+"DISABLED
+" type=
+"text
+">
+<input tabindex=
+"23
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbPowerNumber_I
+" name=
+"rpDefendantInformation$tbPowerNumber
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbPowerNumber')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbPowerNumber')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbPowerNumber')
+" value=
+"S11-2432875
+" type=
+"text
+">
+<input tabindex=
+"2
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbFirstName_I
+" name=
+"rpDefendantInformation$tbFirstName
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbFirstName')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbFirstName')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbFirstName')
+" value=
+"MAURICE
+" type=
+"text
+">
+<input tabindex=
+"14
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbEmployerPhone_I
+" name=
+"rpDefendantInformation$tbEmployerPhone
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbEmployerPhone')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbEmployerPhone')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbEmployerPhone')
+" value=
+"(   )    -
+" type=
+"text
+" autocomplete=
+"off
+">
+<input tabindex=
+"24
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbDatePosted_I
+" name=
+"rpDefendantInformation$tbDatePosted
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbDatePosted')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbDatePosted')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbDatePosted')
+" value=
+"10/4/2015 12:00:00 AM
+" type=
+"text
+" autocomplete=
+"off
+">
+<input tabindex=
+"3
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbMiddleName_I
+" name=
+"rpDefendantInformation$tbMiddleName
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbMiddleName')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbMiddleName')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbMiddleName')
+" value=
+"JERRY
+" type=
+"text
+">
+<input tabindex=
+"15
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbTenure_I
+" name=
+"rpDefendantInformation$tbTenure
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbTenure')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbTenure')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbTenure')
+" type=
+"text
+">
+<input id=
+"rpDefendantInformation_cboCounty_VI
+" name=
+"rpDefendantInformation_cboCounty_VI
+" type=
+"hidden
+" value=
+"Black Hawk
+">
+<input tabindex=
+"25
+" class=
+"dxeEditArea dxeEditAreaSys
+" id=
+"rpDefendantInformation_cboCounty_I
+" name=
+"rpDefendantInformation$cboCounty
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_cboCounty')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_cboCounty')
+" onchange=
+"ASPx.ETextChanged('rpDefendantInformation_cboCounty')
+" value=
+"Black Hawk
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboCounty_DDD_L_VI
+" type=
+"hidden
+" name=
+"rpDefendantInformation$cboCounty$DDD$L
+" value=
+"Black Hawk
+">
+<input tabindex=
+"4
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbAddress_I
+" name=
+"rpDefendantInformation$tbAddress
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbAddress')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbAddress')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbAddress')
+" value=
+"3350 UNIV AV #209
+" type=
+"text
+">
+<input tabindex=
+"16
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbPosition_I
+" name=
+"rpDefendantInformation$tbPosition
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbPosition')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbPosition')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbPosition')
+" type=
+"text
+">
+<input tabindex=
+"26
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbCharge_I
+" name=
+"rpDefendantInformation$tbCharge
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbCharge')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbCharge')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbCharge')
+" value=
+"DWLS
+" type=
+"text
+">
+<input tabindex=
+"5
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbCity_I
+" name=
+"rpDefendantInformation$tbCity
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbCity')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbCity')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbCity')
+" value=
+"WATERLOO
+" type=
+"text
+">
+<input tabindex=
+"17
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbReferenceOne_I
+" name=
+"rpDefendantInformation$tbReferenceOne
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbReferenceOne')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbReferenceOne')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbReferenceOne')
+" value=
+"LISA STUDEBAKER
+" type=
+"text
+">
+<input tabindex=
+"27
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbBondAmount_I
+" name=
+"rpDefendantInformation$tbBondAmount
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbBondAmount')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbBondAmount')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbBondAmount')
+" value=
+"300
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboState_VI
+" name=
+"rpDefendantInformation_cboState_VI
+" type=
+"hidden
+" value=
+"IA
+">
+<input tabindex=
+"6
+" class=
+"dxeEditArea dxeEditAreaSys
+" id=
+"rpDefendantInformation_cboState_I
+" name=
+"rpDefendantInformation$cboState
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_cboState')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_cboState')
+" onchange=
+"ASPx.ETextChanged('rpDefendantInformation_cboState')
+" value=
+"IA
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboState_DDD_L_VI
+" type=
+"hidden
+" name=
+"rpDefendantInformation$cboState$DDD$L
+" value=
+"IA
+">
+<input tabindex=
+"7
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbZip_I
+" name=
+"rpDefendantInformation$tbZip
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbZip')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbZip')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbZip')
+" value=
+"50701
+" type=
+"text
+">
+<input tabindex=
+"18
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbReferenceOnePhone_I
+" name=
+"rpDefendantInformation$tbReferenceOnePhone
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbReferenceOnePhone')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbReferenceOnePhone')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbReferenceOnePhone')
+" value=
+"(319) 610-9369
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboAgent_VI
+" name=
+"rpDefendantInformation_cboAgent_VI
+" type=
+"hidden
+" value=
+"Daris Hillson
+">
+<input tabindex=
+"28
+" class=
+"dxeEditArea dxeEditAreaSys
+" id=
+"rpDefendantInformation_cboAgent_I
+" name=
+"rpDefendantInformation$cboAgent
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_cboAgent')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_cboAgent')
+" onchange=
+"ASPx.ETextChanged('rpDefendantInformation_cboAgent')
+" value=
+"Daris Hillson
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboAgent_DDD_L_VI
+" type=
+"hidden
+" name=
+"rpDefendantInformation$cboAgent$DDD$L
+" value=
+"Daris Hillson
+">
+<input id=
+"rpDefendantInformation_cboStatus_VI
+" name=
+"rpDefendantInformation_cboStatus_VI
+" type=
+"hidden
+" value=
+"3
+">
+<input tabindex=
+"8
+" class=
+"dxeEditArea dxeEditAreaSys
+" id=
+"rpDefendantInformation_cboStatus_I
+" name=
+"rpDefendantInformation$cboStatus
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_cboStatus')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_cboStatus')
+" onchange=
+"ASPx.ETextChanged('rpDefendantInformation_cboStatus')
+" value=
+"RENT
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboStatus_DDD_L_VI
+" type=
+"hidden
+" name=
+"rpDefendantInformation$cboStatus$DDD$L
+" value=
+"3
+">
+<input tabindex=
+"19
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbReferenceTwo_I
+" name=
+"rpDefendantInformation$tbReferenceTwo
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbReferenceTwo')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbReferenceTwo')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbReferenceTwo')
+" type=
+"text
+">
+<input tabindex=
+"29
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbCaseNumber_I
+" name=
+"rpDefendantInformation$tbCaseNumber
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbCaseNumber')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbCaseNumber')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbCaseNumber')
+" type=
+"text
+">
+<input tabindex=
+"9
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbYears_I
+" name=
+"rpDefendantInformation$tbYears
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbYears')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbYears')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbYears')
+" value=
+"4M
+" type=
+"text
+">
+<input tabindex=
+"20
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbReferenceTwoPhone_I
+" name=
+"rpDefendantInformation$tbReferenceTwoPhone
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbReferenceTwoPhone')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbReferenceTwoPhone')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbReferenceTwoPhone')
+" type=
+"text
+" autocomplete=
+"off
+">
+<input tabindex=
+"30
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbPremium_I
+" name=
+"rpDefendantInformation$tbPremium
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbPremium')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbPremium')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbPremium')
+" value=
+"35
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cbPhoneIsMobile_S
+" tabindex=
+"11
+" name=
+"rpDefendantInformation$cbPhoneIsMobile
+" value=
+"C
+" type=
+"text
+" readonly=
+"readonly
+" style=
+"opacity:0;width:1px;height:1px;position:relative;background-color:transparent;display:block;margin:0;padding:0;border-width:0;font-size:0pt;
+">
+<input tabindex=
+"10
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbPhone_I
+" name=
+"rpDefendantInformation$tbPhone
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbPhone')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbPhone')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbPhone')
+" value=
+"(319) 290-9899
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboReferral_VI
+" name=
+"rpDefendantInformation_cboReferral_VI
+" type=
+"hidden
+">
+<input tabindex=
+"21
+" class=
+"dxeEditArea dxeEditAreaSys
+" id=
+"rpDefendantInformation_cboReferral_I
+" name=
+"rpDefendantInformation$cboReferral
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_cboReferral')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_cboReferral')
+" onchange=
+"ASPx.ETextChanged('rpDefendantInformation_cboReferral')
+" type=
+"text
+" autocomplete=
+"off
+">
+<input id=
+"rpDefendantInformation_cboReferral_DDD_L_VI
+" type=
+"hidden
+" name=
+"rpDefendantInformation$cboReferral$DDD$L
+" value=
+"
+">
+<input tabindex=
+"31
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbCollateral_I
+" name=
+"rpDefendantInformation$tbCollateral
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbCollateral')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbCollateral')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbCollateral')
+" type=
+"text
+">
+<input id=
+"rpDefendantInformation_cbCollateral_S
+" name=
+"rpDefendantInformation$cbCollateral
+" value=
+"U
+" type=
+"text
+" readonly=
+"readonly
+" style=
+"opacity:0;width:1px;height:1px;position:relative;background-color:transparent;display:block;margin:0;padding:0;border-width:0;font-size:0pt;
+">
+<input tabindex=
+"11
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbSSN_I
+" name=
+"rpDefendantInformation$tbSSN
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbSSN')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbSSN')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbSSN')
+" value=
+"483-76-0629
+" type=
+"text
+" autocomplete=
+"off
+">
+<input class=
+"dxb-hb
+" value=
+"Add Note
+" type=
+"submit
+" name=
+"rpDefendantInformation$btnAddNotes
+" readonly=
+"readonly
+">
+<input tabindex=
+"12
+" class=
+"dxeEditArea_BlackGlass dxeEditAreaSys
+" id=
+"rpDefendantInformation_tbDOB_I
+" name=
+"rpDefendantInformation$tbDOB
+" onfocus=
+"ASPx.EGotFocus('rpDefendantInformation_tbDOB')
+" onblur=
+"ASPx.ELostFocus('rpDefendantInformation_tbDOB')
+" onchange=
+"ASPx.EValueChanged('rpDefendantInformation_tbDOB')
+" value=
+"12/23/1958 12:00:00 AM
+" type=
+"text
+" autocomplete=
+"off
+">
+<input class=
+"dxb-hb
+" value=
+"Cancel
+" type=
+"submit
+" name=
+"rpDefendantInformation$btnCancel
+" readonly=
+"readonly
+">
