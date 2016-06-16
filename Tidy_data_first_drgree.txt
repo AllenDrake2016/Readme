@@ -1,0 +1,158 @@
+"rpDefendantInformation_tbLastName_I
+"rpDefendantInformation$tbLastName
+" value=
+"WASHINGTON
+"rpDefendantInformation_tbEmployer_I
+"rpDefendantInformation$tbEmployer
+" value=
+"DISABLED
+"rpDefendantInformation_tbPowerNumber_I
+"rpDefendantInformation$tbPowerNumber
+" value=
+"S11-2432875
+"rpDefendantInformation_tbFirstName_I
+"rpDefendantInformation$tbFirstName
+" value=
+"MAURICE
+"rpDefendantInformation_tbEmployerPhone_I
+"rpDefendantInformation$tbEmployerPhone
+" value=
+"(   )    -
+"rpDefendantInformation_tbDatePosted_I
+"rpDefendantInformation$tbDatePosted
+" value=
+"10/4/2015 12:00:00 AM
+"rpDefendantInformation_tbMiddleName_I
+"rpDefendantInformation$tbMiddleName
+" value=
+"JERRY
+"rpDefendantInformation_tbTenure_I
+"rpDefendantInformation$tbTenure
+"rpDefendantInformation_cboCounty_VI
+"rpDefendantInformation_cboCounty_VI
+" value=
+"Black Hawk
+"rpDefendantInformation_cboCounty_I
+"rpDefendantInformation$cboCounty
+" value=
+"Black Hawk
+"rpDefendantInformation_cboCounty_DDD_L_VI
+"rpDefendantInformation$cboCounty$DDD$L
+" value=
+"Black Hawk
+"rpDefendantInformation_tbAddress_I
+"rpDefendantInformation$tbAddress
+" value=
+"3350 UNIV AV #209
+"rpDefendantInformation_tbPosition_I
+"rpDefendantInformation$tbPosition
+"rpDefendantInformation_tbCharge_I
+"rpDefendantInformation$tbCharge
+" value=
+"DWLS
+"rpDefendantInformation_tbCity_I
+"rpDefendantInformation$tbCity
+" value=
+"WATERLOO
+"rpDefendantInformation_tbReferenceOne_I
+"rpDefendantInformation$tbReferenceOne
+" value=
+"LISA STUDEBAKER
+"rpDefendantInformation_tbBondAmount_I
+"rpDefendantInformation$tbBondAmount
+" value=
+"300
+"rpDefendantInformation_cboState_VI
+"rpDefendantInformation_cboState_VI
+" value=
+"IA
+"rpDefendantInformation_cboState_I
+"rpDefendantInformation$cboState
+" value=
+"IA
+"rpDefendantInformation_cboState_DDD_L_VI
+"rpDefendantInformation$cboState$DDD$L
+" value=
+"IA
+"rpDefendantInformation_tbZip_I
+"rpDefendantInformation$tbZip
+" value=
+"50701
+"rpDefendantInformation_tbReferenceOnePhone_I
+"rpDefendantInformation$tbReferenceOnePhone
+" value=
+"(319) 610-9369
+"rpDefendantInformation_cboAgent_VI
+"rpDefendantInformation_cboAgent_VI
+" value=
+"Daris Hillson
+"rpDefendantInformation_cboAgent_I
+"rpDefendantInformation$cboAgent
+" value=
+"Daris Hillson
+"rpDefendantInformation_cboAgent_DDD_L_VI
+"rpDefendantInformation$cboAgent$DDD$L
+" value=
+"Daris Hillson
+"rpDefendantInformation_cboStatus_VI
+"rpDefendantInformation_cboStatus_VI
+" value=
+"3
+"rpDefendantInformation_cboStatus_I
+"rpDefendantInformation$cboStatus
+" value=
+"RENT
+"rpDefendantInformation_cboStatus_DDD_L_VI
+"rpDefendantInformation$cboStatus$DDD$L
+" value=
+"3
+"rpDefendantInformation_tbReferenceTwo_I
+"rpDefendantInformation$tbReferenceTwo
+"rpDefendantInformation_tbCaseNumber_I
+"rpDefendantInformation$tbCaseNumber
+"rpDefendantInformation_tbYears_I
+"rpDefendantInformation$tbYears
+" value=
+"4M
+"rpDefendantInformation_tbReferenceTwoPhone_I
+"rpDefendantInformation$tbReferenceTwoPhone
+"rpDefendantInformation_tbPremium_I
+"rpDefendantInformation$tbPremium
+" value=
+"35
+"rpDefendantInformation_cbPhoneIsMobile_S
+"rpDefendantInformation$cbPhoneIsMobile
+" value=
+"C
+"rpDefendantInformation_tbPhone_I
+"rpDefendantInformation$tbPhone
+" value=
+"(319) 290-9899
+"rpDefendantInformation_cboReferral_VI
+"rpDefendantInformation_cboReferral_VI
+"rpDefendantInformation_cboReferral_I
+"rpDefendantInformation$cboReferral
+"rpDefendantInformation_cboReferral_DDD_L_VI
+"rpDefendantInformation$cboReferral$DDD$L
+" value=
+"
+"rpDefendantInformation_tbCollateral_I
+"rpDefendantInformation$tbCollateral
+"rpDefendantInformation_cbCollateral_S
+"rpDefendantInformation$cbCollateral
+" value=
+"U
+"rpDefendantInformation_tbSSN_I
+"rpDefendantInformation$tbSSN
+" value=
+"483-76-0629
+" value=
+"Add Note
+"rpDefendantInformation$btnAddNotes
+"rpDefendantInformation_tbDOB_I
+"rpDefendantInformation$tbDOB
+" value=
+"12/23/1958 12:00:00 AM
+" value=
+"Cancel
+"rpDefendantInformation$btnCancel
