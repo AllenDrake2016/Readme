@@ -1,0 +1,73 @@
+LastName_I
+"WASHINGTON
+Employer_I
+"DISABLED
+PowerNumber_I
+"S11-2432875
+FirstName_I
+"MAURICE
+EmployerPhone_I
+"(   )    -
+Posted_I
+"10/4/2015 12:00:00 AM
+MiddleName_I
+"JERRY
+Tenure_I
+"Black Hawk
+County
+"Black Hawk
+County$DDD$L
+"Black Hawk
+Address_I
+"3350 UNIV AV #209
+Position_I
+Charge_I
+"DWLS
+City_I
+"WATERLOO
+ReferenceOne_I
+"LISA STUDEBAKER
+BondAmount_I
+"300
+"IA
+State
+"IA
+State$DDD$L
+"IA
+Zip_I
+"50701
+ReferenceOnePhone_I
+"(319) 610-9369
+"Daris Hillson
+Agent
+"Daris Hillson
+Agent$DDD$L
+"Daris Hillson
+"3
+Status
+"RENT
+Status$DDD$L
+"3
+ReferenceTwo_I
+CaseNumber_I
+Years_I
+"4M
+ReferenceTwoPhone_I
+Premium_I
+"35
+PhoneIsMobile
+"C
+Phone_I
+"(319) 290-9899
+Referral
+Referral$DDD$L
+"
+Collateral_I
+Collateral
+"U
+SSN_I
+"483-76-0629
+"Add Note
+OB_I
+"12/23/1958 12:00:00 AM
+"Cancel
