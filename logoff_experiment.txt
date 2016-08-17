@@ -1,0 +1,91 @@
+####################################################### login_form.attrs
+<form accept-charset="UTF-8" action="/session" data-form-nonce="c9418a7c7d029fac9e1e3f5165225383127804ca" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="s18/BLxx/jnbl10lOCAVPxAYLmuXwaFlKNk6G75RBL7JQ+Ns0GpQ4Ky9doXdQZ3pTiQNUvTcXyQNLV0wXxHWPg=="/></div> <div class="auth-form-header">
+<h1>Sign in to GitHub</h1>
+</div>
+<div id="js-flash-container">
+</div>
+<div class="auth-form-body mt-4">
+<label for="login_field">
+          Username or email address
+        </label>
+<input autocapitalize="off" autocorrect="off" autofocus="autofocus" class="form-control input-block" id="login_field" name="login" tabindex="1" type="text" value="Zihanghuang"/>
+<label for="password">
+          Password <a class="label-link" href="/password_reset">Forgot password?</a>
+</label>
+<input class="form-control form-control input-block" id="password" name="password" tabindex="2" type="password" value="xisuo18EX@"/>
+<input class="btn btn-primary btn-block" data-disable-with="Signing in…" name="commit" tabindex="3" type="submit" value="Sign in"/>
+</div>
+</form>
+{'data-form-nonce': 'c9418a7c7d029fac9e1e3f5165225383127804ca', 'accept-charset': ['UTF-8'], 'method': 'post', 'action': '/session'}
+
+####################################################### values = []
+[<select id="__w2_nExhP64_topic_selector"><option value="0">- Select -</option><option value="1">I need help with my account</option><option value="2">I have a legal question</option><option value="3">I want to appeal a moderation decision</option><option value="6">I have a safety concern</option><option value="7">I want to advertise on Quora</option><option value="4">General feedback</option><option value="5">Report a bug</option></select>]
+<option value="0">- Select -</option>
+{'value': '0'}
+['0']
+
+values = []
+values.append(login_option.get("value", ""))
+print(values)
+
+####################################################### html js http//
+
+<form>
+  Team Name: <input name="team_name" class="input1">
+  <br>
+  Output: <span class="output">Empty</span>
+</form>
+
+$(function() {
+  $('.input1').keyup(function() {
+    $output = $(this).val();
+    $('.output').text($output);
+  });
+});
+
+http://codepen.io/pen/
+
+<form class="red_form" id="team_form">
+  Team Name: <input name="team_name" class="input1">
+  <br>
+  Output: <span class="output">Empty</span>
+</form>
+
+<br>
+
+<form class="red_form" id="pokemon_form">
+  Team Name: <input name="team_name" class="input1">
+  <br>
+  Output: <span class="output">Empty</span>
+</form>
+
+<div class='click' id='click'>Click me</div>
+
+
+.red_form {
+  background:#f55;
+}
+
+.input1 {
+  text-align:center;
+}
+
+#team_form {
+  padding:20px;
+}
+
+
+$('#pokemon_form').hide();
+
+$('#team_form .input1').keyup(function() {
+  $('#pokemon_form').fadeIn();
+});
+
+// var button = document.getElementByClassName('click');
+// button.onclick=function(){
+//   alert('desk');
+// };
+
+$('.click').click(function() {
+  alert('test');
+});
